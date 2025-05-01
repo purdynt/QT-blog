@@ -32,19 +32,19 @@ Before installing or running this project, ensure you have the following prerequ
 
 
 
-1. Clone this repository to your local machine using Git:
+1. Clone this repository to your local machine using Git: https://github.com/purdynt/QT-blog.git
    `bash`
-Launch Jupyter Notebook with:
+2. Launch Jupyter Notebook with:
 ```bash```
-jupyter notebook```
+jupyter notebook
 
 3. Navigate into the project folder :
 
 All code is done on Jupyter Notebook, so this needs to be opened.
 Once this has been opened, run notebooks in specific order:
-1. Run: Project Data Collection and Cleaning.ipynb 
+ 1. Run: Project Data Collection and Cleaning.ipynb 
 This file contains all the webscraping, data cleaning and data reshaping. It does save it all to csv files which have also been uploaded into the repository. 
-2. Run: Data Presentation_22.ipynb
+ 2. Run: Data Presentation_22.ipynb
 This file contains all the code for the data presentation such as pie chart, line graphs and bar charts.
 
 ### Insights and Limitations
