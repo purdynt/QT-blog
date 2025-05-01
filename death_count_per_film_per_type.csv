@@ -1,0 +1,40 @@
+Movie,death_type,death_count
+Death Proof (2007),Exploded,1
+Death Proof (2007),Physical Combat,2
+Death Proof (2007),Unknown,3
+Django Unchained (2012),Exploded,2
+Django Unchained (2012),Physical Combat,2
+Django Unchained (2012),Shot,45
+Django Unchained (2012),Unknown,4
+Inglourious Basterds (2009),Burned,1
+Inglourious Basterds (2009),Exploded,2
+Inglourious Basterds (2009),Physical Combat,1
+Inglourious Basterds (2009),Shot,273
+Inglourious Basterds (2009),Stabbed,2
+Inglourious Basterds (2009),Strangled,3
+Inglourious Basterds (2009),Unknown,23
+Jackie Brown (1997),Shot,4
+Kill Bill: Volume 1 (2003),Physical Combat,1
+Kill Bill: Volume 1 (2003),Shot,11
+Kill Bill: Volume 1 (2003),Stabbed,68
+Kill Bill: Volume 1 (2003),Unknown,18
+Kill Bill: Volume 2 (2004),Exploded,1
+Kill Bill: Volume 2 (2004),Physical Combat,1
+Kill Bill: Volume 2 (2004),Poisoned,1
+Kill Bill: Volume 2 (2004),Unknown,2
+Once Upon a Time... in Hollywood (2019),Burned,1
+Once Upon a Time... in Hollywood (2019),Physical Combat,2
+Once Upon a Time... in Hollywood (2019),Unknown,1
+Pulp Fiction (1994),Hanged,1
+Pulp Fiction (1994),Overdose,1
+Pulp Fiction (1994),Physical Combat,1
+Pulp Fiction (1994),Shot,7
+Pulp Fiction (1994),Stabbed,1
+Pulp Fiction (1994),Unknown,4
+Reservoir Dogs (1992),Shot,11
+The Hateful Eight (2015),Burned,47
+The Hateful Eight (2015),Hanged,1
+The Hateful Eight (2015),Poisoned,1
+The Hateful Eight (2015),Shot,15
+The Hateful Eight (2015),Stabbed,1
+The Hateful Eight (2015),Unknown,9

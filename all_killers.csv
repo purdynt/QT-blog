@@ -1,0 +1,62 @@
+Movie,Year,Character,Gender,Kills,Fate
+Once Upon a Time in Hollywood,2019,Cliff Booth,Male,3,Alive
+Once Upon a Time in Hollywood,2019,Brandy (Dog),Male,1,Alive
+Once Upon a Time in Hollywood,2019,Rick Dalton,Male,1,Alive
+The Hateful Eight,2015,Major Marquis Warren,Male,57,Deceased
+The Hateful Eight,2015,Sheriff Chris Mannix,Male,4,Deceased
+The Hateful Eight,2015,Grouch Douglas/Joe Gage,Male,4,Deceased
+The Hateful Eight,2015,Jody Domergue,Male,3,Deceased
+The Hateful Eight,2015,Pete Hicox/Oswaldo Mobray,Male,3,Deceased
+The Hateful Eight,2015,Daisy Domergue,Female,2,Deceased
+The Hateful Eight,2015,Lance Lawson,Male,1,Unknown
+The Hateful Eight,2015,Marco the Mexican/Señor Bob,Male,1,Deceased
+Django Unchained,2012,Django Freeman,Male,41,Alive
+Django Unchained,2012,Dr. King Schultz,Male,16,Deceased
+Django Unchained,2012,Calvin J. Candie,Male,2,Deceased
+Django Unchained,2012,Big Fred,Male,1,Unknown
+Django Unchained,2012,Ellis Brittle,Male,1,Deceased
+Django Unchained,2012,Jonathan Brittle,Male,1,Deceased
+Django Unchained,2012,Roger Brittle,Male,1,Deceased
+Django Unchained,2012,Smitty Bacal,Male,1,Deceased
+Django Unchained,2012,Butch Pooch,Male,1,Deceased
+Inglourious Basterds,2009,Staff Sergeant Donny Donowitz/The Bear Jew,Male,259,Deceased
+Inglourious Basterds,2009,Private First Class Omar Ulmer,Male,258,Deceased
+Inglourious Basterds,2009,First Lieutenant Aldo Raine/The Apache,Male,257,Alive
+Inglourious Basterds,2009,Private First Class Gerold Hirschberg,Male,256,Alive
+Inglourious Basterds,2009,Private First Class Michael Zimmerman,Male,256,Alive
+Inglourious Basterds,2009,Private First Class Simon Sakowitz,Male,256,Alive
+Inglourious Basterds,2009,Private First Class Smithson Utivich,Male,256,Alive
+Inglourious Basterds,2009,Senior Private Fredrick Zoller,Male,251,Deceased
+Inglourious Basterds,2009,Bridget von Hammersmark,Female,238,Deceased
+Inglourious Basterds,2009,Shosanna Dreyfus,Female,236,Deceased
+Inglourious Basterds,2009,Marcel,Male,234,Possibly Deceased
+Inglourious Basterds,2009,Technical Sergeant Hugo Stiglitz,Male,33,Deceased
+Inglourious Basterds,2009,Corporal Wilhelm Wicki,Male,19,Deceased
+Inglourious Basterds,2009,"Lieutenant Archibald ""Archie"" Hicox",Male,18,Deceased
+Inglourious Basterds,2009,Colonel Hans Landa/The Jew Hunter,Male,5,Alive
+Inglourious Basterds,2009,Nazi Sergeant Wilhelm,Male,3,Deceased
+Inglourious Basterds,2009,Eric,Male,1,Deceased
+Inglourious Basterds,2009,Major Dieter Hellstrom,Male,1,Deceased
+Death Proof,2007,Stuntman Mike McKay,Male,5,Deceased
+Death Proof,2007,Abernathy,Female,1,Alive
+Death Proof,2007,Kim,Female,1,Alive
+Death Proof,2007,Zoë,Female,1,Alive
+Kill Bill Vol. 1 and Vol.2,2003,Beatrix Kiddo/The Bride/Black Mamba,Female,81,Alive
+Kill Bill Vol. 1 and Vol.2,2003,O-Ren Ishii/Cottonmouth,Female,15,Deceased
+Kill Bill Vol. 1 and Vol.2,2003,Elle Driver/California Mountain Snake,Female,10,Possibly Deceased
+Kill Bill Vol. 1 and Vol.2,2003,Bill/Snake Charmer,Male,8,Deceased
+Kill Bill Vol. 1 and Vol.2,2003,Vernita Yvonne Green/Copperhead,Female,8,Deceased
+Kill Bill Vol. 1 and Vol.2,2003,Budd/Sidewinder,Male,8,Deceased
+Kill Bill Vol. 1 and Vol.2,2003,B.B. Kiddo,Female,1,Alive
+Kill Bill Vol. 1 and Vol.2,2003,Boss Matsumodo,Male,1,Deceased
+Kill Bill Vol. 1 and Vol.2,2003,Gogo Yubari,Female,1,Deceased
+Jackie Brown,1997,Ordell Robbie,Male,2,Deceased
+Jackie Brown,1997,Louis Gara,Male,1,Deceased
+Pulp Fiction,1994,Butch Coolidge,Male,4,Alive
+Pulp Fiction,1994,Jules Winnfield,Male,3,Alive
+Pulp Fiction,1994,Vincent Vega,Male,3,Deceased
+Pulp Fiction,1994,Marsellus Wallace,Male,2,Alive
+Reservoir Dogs,1992,"Lawrence ""Larry"" Dimmick/Mr. White",Male,5,Deceased
+Reservoir Dogs,1992,"Officer Frederick ""Freddy"" Newandyke/Mr. Orange",Male,2,Deceased
+Reservoir Dogs,1992,"""Mr. Pink""",Male,1,Alive
+Reservoir Dogs,1992,"Edward ""Nice Guy Eddie"" Cabot",Male,1,Deceased
