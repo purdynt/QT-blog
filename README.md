@@ -4,11 +4,11 @@ This data-led blog aims to give a complete analysis of both on and off screen ki
 
 Within this blog, we look to analyse the kill counts from Tarantino's initial 9 movies where he has exclusively directed in the wake of his announcement for is 10th and final movie. Although individually he has already released 10; Kill Bill Vol 1 and Kill Bill Vol 2, are considered to be one singular film despite being released as two seperate films. Amongst those films, this project includes all other major Tarantino directed films- such as Inglourious Basterds, Django Unchained, Pulp Fiction, and others to be broken down by a varying categories:
 
-- Kill totals per movie
-- Kills by characters
-- Method of death
-- Kill counts and IMdB ratings
-- Changes in kills over time
+- Kill Count and IMDb ratings over time
+- Top 20 killers and their fate
+- Gender break down of killers
+- Gender break down of deaths
+- Types of kills by body count
   
 Adopting a multitude of data visualisation methods and contextual reasoning, this blog provides information about how Tarantino uses death and ways of dying within his films, equally how he treats methods of dying within the context of the film. 
 
@@ -34,14 +34,23 @@ Before installing or running this project, ensure you have the following prerequ
 
 1. Clone this repository to your local machine using Git:
    `bash`
-  ADD THIS
+Launch Jupyter Notebook with:
+```bash```
+jupyter notebook```
 
-2. Navigate into the project folder :
+3. Navigate into the project folder :
 
 All code is done on Jupyter Notebook, so this needs to be opened.
 Once this has been opened, run notebooks in specific order:
--Data cleaning notebook
--Data viualization --> edit this
+1. Run: Project Data Collection and Cleaning.ipynb 
+This file contains all the webscraping, data cleaning and data reshaping. It does save it all to csv files which have also been uploaded into the repository. 
+2. Run: Data Presentation_22.ipynb
+This file contains all the code for the data presentation such as pie chart, line graphs and bar charts.
+
+### Insights and Limitations
+-Kill counts include both on screen but equally off screen or implied death.
+-Character's personal kill counts may be inaccurate given the descriptions do not direclty say whether kills were assisted or not-this could be prevelant specifically in Inglourious Basterds.
+-IMDb ratings vary over time 
 
 # Sources of webscraping
 - IMdb for ratings data: https://www.imdb.com/list/ls069398589/
